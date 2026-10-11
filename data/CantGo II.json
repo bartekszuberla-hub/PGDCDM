@@ -8,11 +8,23 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
+                {
             "user": "Dexxior",
-            "link": "https://youtu.be/leoWIK4hoe0",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
         }
-    ]
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]   
 }
