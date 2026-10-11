@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Cantgo II",
+    "author": "Kubsonez",
+    "creators": ["Kubsonez"],
+    "verifier": "Kubsonez",
+    "verification": "https://youtu.be/leoWIK4hoe0",
+    "percentToQualify": 100,
+    "password": "doesnt have",
+    "records": [1
+        {
+            "user": "Dexxior",
+            "link": "https://youtu.be/leoWIK4hoe0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
